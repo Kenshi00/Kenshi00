@@ -27,7 +27,7 @@
 	<p>Notion Link</p>
 </div>
 <div align=center>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+	<a href="http://bit.ly/3Di5NKQ">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
