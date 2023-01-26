@@ -3,7 +3,9 @@
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-  </p>  
+  </p> 
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 </div>
 
 
