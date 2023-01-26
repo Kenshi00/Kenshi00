@@ -19,11 +19,6 @@
 </div>
 <br>
 <div align=center>
-	<p>Baekjoon solved rank</p>
-	
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiyun_98)](https://solved.ac/jiyun_98)
-</div>
-<div align=center>
 	<p>Notion Link</p>
 </div>
 <div align=center>
@@ -33,4 +28,11 @@
 	<br>
 </div>
 <br>
+
+<div align=center>
+	<p>Baekjoon solved rank</p>
+	
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiyun_98)](https://solved.ac/jiyun_98)
+</div>
+
 
