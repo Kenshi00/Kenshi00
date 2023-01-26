@@ -1,6 +1,6 @@
 ### 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyun_98)](https://solved.ac/jiyun_98)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jiyun_98)](https://solved.ac/jiyun_98)
 
 <!--
 **jiyunlog/jiyunlog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
